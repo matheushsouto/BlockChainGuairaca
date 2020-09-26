@@ -1,0 +1,5 @@
+Origem: England
+Destino: Lugo
+Mensagem: Olá Lugo. Meu nome é England
+Hash 5dff7ae24bfba9eafa8d2a7472e951acd7cdf8f20df81d0e2edf5f816d8c8466
+Hash Anterior cfe4046fb9a0debb48d5ec3a89e4dd56a9eaceed766bd4f4f2c7e14d25a1d14c
